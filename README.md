@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @yun1653
-- 👀 I’m interested in JS an Python
+- Hi, I’m @yun1653
+- I’m interested in JS and Python
 
 
 <!---
